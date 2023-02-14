@@ -1,6 +1,9 @@
 # LES VOLCANS
 
 ## DEBUT 
+
+![volcan](img/1.jpeg)
+
 Un volcan est une structure géologique qui résulte de la montée d'un magma puis de l'éruption de matériaux (gaz et lave) issus de ce magma, à la surface de la croûte terrestre ou d'un autre astre. Il peut être aérien ou sous-marin.
 
 La Smithsonian Institution recense 1 432 volcans actifs dans le monde1, dont une soixantaine en éruption chaque année2. Mais cela ne tient pas compte de la plupart des volcans sous-marins qui ne sont pas accessibles à l'observation, qui sont plus nombreux. Un grand nombre a été mis en évidence ailleurs dans le système solaire.
@@ -22,6 +25,8 @@ Les bases de données scientifiques classifient le plus souvent les volcans par 
 Le substantif masculin « volcan » est un emprunt à l'espagnol volcán, substantif masculin de même sens, issu, par l'intermédiaire de l'arabe burkān, du latin Vulcanus, nom de Vulcain, le dieu romain du feu, et de Vulcano, une des îles Éoliennes, archipel volcanique au large de la Sicile.
 
 ## CARACTERISTIQUES 
+
+![volcan](img/2.png)
 
 Un volcan est formé de différentes structures que l'on retrouve en général chez chacun d'eux :
 
